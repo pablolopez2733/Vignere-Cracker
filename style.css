@@ -1,0 +1,13 @@
+#msjes{
+    display: flex;
+    
+
+}
+#aEncriptar{
+    align-self: flex-start;
+}
+
+#Encriptado{
+    padding-left: 35px;
+}
+
